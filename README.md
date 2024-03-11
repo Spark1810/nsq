@@ -1,8 +1,8 @@
 Program1
 Create table college(name varchar(20), Rollno varchar(20));
 Insert into college (name, Rollno)
-Values(“Sailesh”,”21BDS039”);
-update college set Rollno= “21BDS060” where name = "Sailesh";
+Values(“Sudharshan Vijay”,”21BDS018”);
+update college set Rollno= “21BDS052” where name = "Sudharshan Vijay";
 
 Program2
 use college
